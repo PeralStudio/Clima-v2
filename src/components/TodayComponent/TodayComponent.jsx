@@ -60,17 +60,17 @@ class TodayComponent extends Component {
                 <div className="extra-info-container">
                     <div className="extra-info-item">
                         <span><i className="wi wi-humidity"></i></span>
-                        <span>Humidity</span>
+                        <span>Humedad</span>
                         <span>{humidity}%</span>
                     </div>
                     <div className="extra-info-item">
                         <span><i className="wi wi-barometer"></i></span>
-                        <span>Pressure</span>
+                        <span>Presión</span>
                         <span>{pressure} hPa</span>
                     </div>
                     <div className="extra-info-item">
                         <span><i className="wi wi-strong-wind"></i></span>
-                        <span>Wind Speed</span>
+                        <span>Velocidad del viento</span>
                         <span>{windSpeed} {windSpeedUnit}</span>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ class GraphComponent extends Component {
             <div className="graph-container">
                 <div className="graph-info">
                     <span><i className="fa fa-arrow-left"></i></span>
-                    <span>Temperature variation over 7 days</span>
+                    <span>Variación de temperatura en 7 days</span>
                     <span><i className="fa fa-arrow-right"></i></span>
                 </div>
                 <div className="graph">

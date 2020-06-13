@@ -168,7 +168,7 @@ class App extends Component {
         const shouldRenderApp = hasLatLng || hasCityOrZipcode;
 
         const instructionLayout = <div className="app-instruction">
-            <p>Allow Location Access or type city name/zip code in search area to get started.</p>
+            <p>Para comenzar, permita el acceso a la ubicación o escriba el nombre de la ciudad / código postal en el área de búsqueda.</p>
         </div>
 
         const mainAppLayout = <React.Fragment>

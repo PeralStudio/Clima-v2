@@ -29,7 +29,7 @@ class SearchBox extends Component {
                         value={this.state.query}
                         name="searchBox"
                         id="searchBox"
-                        placeholder="Enter City or Zipcode"
+                        placeholder="Ciudad / Codigo postal"
                         onChange={this.handleQueryStringChange} />
                     <span
                         className="search-button fa fa-search"

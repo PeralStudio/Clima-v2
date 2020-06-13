@@ -73,7 +73,7 @@
 .extra-info-item{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 4px;
     margin: 4px;
     border-radius: 2px;
