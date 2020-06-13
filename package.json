@@ -1,9 +1,9 @@
 {
   "name": "weather",
   "version": "1.0.0",
-  "description": "A Simple weather app",
+  "description": "App Clima React",
   "main": "index.js",
-  "homepage": "https://muraliprajapati.github.io/weather/",
+  "homepage": "https://peralstudio.github.io/Clima-v2/",
   "scripts": {
     "start": "webpack-dev-server --colors --mode=development",
     "build": "webpack --mode=production",
