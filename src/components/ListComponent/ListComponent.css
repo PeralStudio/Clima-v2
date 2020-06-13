@@ -47,5 +47,6 @@
 @media all and (max-width:480px){
     .single-list-item{
         flex: 50%;
+        justify-content: space-between;
     }
 }
