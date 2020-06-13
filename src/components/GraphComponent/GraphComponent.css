@@ -25,4 +25,7 @@
         padding: 2px;
         margin: 0px;
     }
+    .graph-container{
+        margin-top: -100px;
+    }
 }
