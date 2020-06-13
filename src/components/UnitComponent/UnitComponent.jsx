@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+{/*import React, { Component } from 'react';
 import './UnitComponent.css'
 
 class UnitComponent extends Component {
@@ -18,4 +18,4 @@ class UnitComponent extends Component {
     }
 }
 
-export default UnitComponent;
+export default UnitComponent; Un comentario JSX */}
