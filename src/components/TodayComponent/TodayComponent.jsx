@@ -65,7 +65,7 @@ class TodayComponent extends Component {
                     </div>
                     <div className="extra-info-item">
                         <span><i className="wi wi-barometer"></i></span>
-                        <span>Presión</span>
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presión</span>
                         <span>{pressure} hPa</span>
                     </div>
                     <div className="extra-info-item">
