@@ -1,5 +1,6 @@
 # Frontend- Clima App React
 
+![Design preview for Clima App React](./src/images/climav2.png)
 
 
 # Installation 
