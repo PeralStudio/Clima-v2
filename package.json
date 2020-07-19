@@ -16,8 +16,8 @@
   "author": "Alberto Peral",
   "license": "MIT",
   "devDependencies": {
-    "babel-loader": "^7.1.3",
-    "babel-preset-env": "^1.6.1",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^0.28.11",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "react": "^16.3.2",
+    "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-sparklines": "^1.7.0"
   }
